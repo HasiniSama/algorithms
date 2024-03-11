@@ -51,7 +51,7 @@ class LeastConnectionsLoadBalancer:
             return "No servers available."
 
 
-# Example usage so add more nodes.
+# Example usage := so add more nodes.
 server_list = [
     {"name": "youtube.com", "connections": 5},
     {"name": "reddit.com", "connections": 2},
